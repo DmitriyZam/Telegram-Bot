@@ -1,5 +1,6 @@
-Telegram Bot
-Создание Telegram Bot конвертации валют
-'доллар':'USD',
-'евро':'EUR',
-'рубль':'RUB'
+# Telegram Bot
+Creation of Telegram Bot for real-time currency conversion
+Currency 'dollar':'USD',
+         'euro':'EUR',
+         'ruble':'RUB'
+Website https://coinmarketcap.com/
